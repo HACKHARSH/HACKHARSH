@@ -1,4 +1,12 @@
 - 👋 Hi, I’m @HACKHARSH AKA HARSH MAHAJAN
+- JUST A NORMAL PROGRAMMER
+- SKILLS:
+- Python
+- html
+- Django
+- FULL STACK DEVELOPER (in short)
+- Learning things to do nothing
+- ✌️Peace Out 
 
 
 <!---
