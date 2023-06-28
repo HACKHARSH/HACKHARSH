@@ -4,7 +4,6 @@
 - -->Python
 - -->html
 - -->Django
-- FULL STACK DEVELOPER (in short)
 - Learning things to do nothing
 - ✌️Peace Out 
 
