@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Mahajan AKA HACKHARSH</h1>
+<h1 align="center">Hi 👋, I'm Harsh Mahajan</h1>
 <h3 align="center">Passionate to create scalable, distributed, and customer-impacting software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackharsh&label=Profile%20views&color=0e75b6&style=flat" alt="hackharsh" /> </p>
